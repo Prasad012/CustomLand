@@ -1,0 +1,3 @@
+export const SET_USERDATA = "SET_USERDATA"
+export const SET_USERTOKEN = "SET_USERTOKEN"
+export const RESET_USER = "RESET_USER"
